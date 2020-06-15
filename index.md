@@ -18,9 +18,9 @@ Computation modeling and Experimental Biophysics of fibrous protein such as coll
 ### Patent
 
 ### Awards
-[1] 2014-2015 & 2015-2016, Academic scholarship, Jiangnan University.
-[2] 2015-2016, outstanding postgraduate student, Jiangnan University.
-[3] 2016-2017 & 2017-2018, Academic scholarship, Jiangnan University.
+[1] 2014-2015 & 2015-2016, Academic scholarship, Jiangnan University.  
+[2] 2015-2016, outstanding postgraduate student, Jiangnan University.  
+[3] 2016-2017 & 2017-2018, Academic scholarship, Jiangnan University.  
 
 ### Contact
 email: jinyuan416@yahoo.com
