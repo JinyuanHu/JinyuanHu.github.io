@@ -8,7 +8,7 @@ jointPhD of Center for [Advanced Biotechnology and Medicine](https://cabm.rutger
 ### Research 
 Computation modeling and Experimental Biophysics of fibrous protein such as collagen
 
-### Publications
+### Publications <img src="1.jpg" width="4" height="4">
 1. Hu, J., Lu, X., Wang, H., Zhao, Y., Shen, W., Yang, H., & Chen, X. (2019). Enhancing  
 extracellular protein production in Escherichia coli by deleting the d-alanyl-d-alanine  
 carboxypeptidase gene dacC. Engineering in Life Sciences, 0(0). doi:doi:10.1002/elsc.201800199
