@@ -23,6 +23,6 @@ Computation modeling and Experimental Biophysics of fibrous protein such as coll
 3. 2016-2017 & 2017-2018, Academic scholarship, Jiangnan University.
 
 ### Contact
-email: jinyuan416@yahoo.com
-phone: -
-address: No. 1800 Lihu Ave., Wuxi, China
+email: jinyuan416@yahoo.com.
+phone: -.
+address: No. 1800 Lihu Ave., Wuxi, China.
