@@ -9,7 +9,9 @@ jointPhD of Center for [Advanced Biotechnology and Medicine](https://cabm.rutger
 Computation modeling and Experimental Biophysics of fibrous protein such as collagen
 
 ### Publications
-1. Hu, J., Lu, X., Wang, H., Zhao, Y., Shen, W., Yang, H., & Chen, X. (2019). Enhancing <br> extracellular protein production in Escherichia coli by deleting the d-alanyl-d-alanine carboxypeptidase gene dacC. Engineering in Life Sciences, 0(0). doi:doi:10.1002/elsc.201800199
+1. Hu, J., Lu, X., Wang, H., Zhao, Y., Shen, W., Yang, H., & Chen, X. (2019). Enhancing  
+extracellular protein production in Escherichia coli by deleting the d-alanyl-d-alanine  
+carboxypeptidase gene dacC. Engineering in Life Sciences, 0(0). doi:doi:10.1002/elsc.201800199
 2. Yang, H., Hu, J., Lu, X., Shen, W., Hu, W., Wang, L., . . . Liu, L. (2018). Improving extracellular protein production in Escherichia coli by overexpressing D, D-carboxypeptidase to perturb peptidoglycan network synthesis and structure. Applied Microbiology and Biotechnology, 1-14. 
 3. Yang, H., Lu, X., Hu, J., Chen, Y., Shen, W., & Liu, L. (2018). Boosting extracellular protein secretion of Escherichia coli via perturbing cell wall. Applied and Environmental Microbiology. doi:10.1128/aem.01382-18
 4. Zheng, H., Liu, H., Hu, J., & Xu, F. (2018). Stabilizing Effects of Pairwise Salt Bridges Between Acidic and Basic Residues in a Collagen Heterotrimer. Chemical Physics Letters. 
