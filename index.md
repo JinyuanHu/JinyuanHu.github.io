@@ -1,29 +1,40 @@
-## Welcome to GitHub Pages
+## Jinyuan hU
 
-You can use the [editor on GitHub](https://github.com/JinyuanHu/JinyuanHu.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Ph.D. Candidate of [School of biotechnology](http://biotech.jiangnan.edu.cn/) - Jiangnan University
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+jointPhD of Center for [Advanced Biotechnology and Medicine](https://cabm.rutgers.edu/) - Rutgers University 
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+## Research ![Image](<i class="fab fa-google"></i>)  
+Computation modeling and Experimental Biophysics of fibrous protein such as collagen
 
-# Header 1
-## Header 2
-### Header 3
+##Publications
+1. Hu, J., Lu, X., Wang, H., Zhao, Y., Shen, W., Yang, H., & Chen, X. (2019). Enhancing extracellular protein production in Escherichia coli by deleting the d-alanyl-d-alanine carboxypeptidase gene dacC. Engineering in Life Sciences, 0(0). doi:doi:10.1002/elsc.201800199
+2. Yang, H., Hu, J., Lu, X., Shen, W., Hu, W., Wang, L., . . . Liu, L. (2018). Improving extracellular protein production in Escherichia coli by overexpressing D, D-carboxypeptidase to perturb peptidoglycan network synthesis and structure. Applied Microbiology and Biotechnology, 1-14. 
+3. Yang, H., Lu, X., Hu, J., Chen, Y., Shen, W., & Liu, L. (2018). Boosting extracellular protein secretion of Escherichia coli via perturbing cell wall. Applied and Environmental Microbiology. doi:10.1128/aem.01382-18
+4. Zheng, H., Liu, H., Hu, J., & Xu, F. (2018). Stabilizing Effects of Pairwise Salt Bridges Between Acidic and Basic Residues in a Collagen Heterotrimer. Chemical Physics Letters. 
+5. Zheng, H., Liu, H., Hu, J., & Xu, F. (2019). Using a collagen heterotrimer to screen for cation-π interactions to stabilize triple helices. Chemical Physics Letters, 715, 77-83. 
 
-- Bulleted
-- List
+##Patent
 
-1. Numbered
-2. List
+##Awards
+[1] 2014-2015 & 2015-2016, Academic scholarship, Jiangnan University.
+[2] 2015-2016, outstanding postgraduate student, Jiangnan University.
+[3] 2016-2017 & 2017-2018, Academic scholarship, Jiangnan University.
 
-**Bold** and _Italic_ and `Code` text
+##Contact
+email: jinyuan416@yahoo.com
+phone: -
+address: No. 1800 Lihu Ave., Wuxi, China 
 
-[Link](url) and ![Image](src)
+
+
+
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
