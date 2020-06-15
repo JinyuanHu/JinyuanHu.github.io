@@ -25,4 +25,4 @@ Computation modeling and Experimental Biophysics of fibrous protein such as coll
 ### Contact
 email: jinyuan416@yahoo.com
 phone: -
-address: No. 1800 Lihu Ave., Wuxi, China 
+address: No. 1800 Lihu Ave., Wuxi, China
